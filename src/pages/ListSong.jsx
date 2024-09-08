@@ -44,7 +44,7 @@ const ListSong = () => {
           <b>Name</b>
           <b>Album</b>
           <b>Duration</b>
-          <b>Action</b>
+          <b>Delete Song</b>
         </div>
         {data.map((item, index) => {
           return (

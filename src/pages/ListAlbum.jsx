@@ -44,7 +44,7 @@ const ListAlbum = () => {
           <b>Name</b>
           <b>Description</b>
           <b>Album Color</b>
-          <b>Action</b>
+          <b>Delete Album</b>
         </div>
         {data.map((item, index) => {
           return (
