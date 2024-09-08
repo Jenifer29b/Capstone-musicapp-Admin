@@ -9,7 +9,7 @@ import ListAlbum from "./pages/ListAlbum";
 import Sidebar from "./components/Sidebar";
 import Navebar from "./components/Navebar";
 
-export const url = "http://localhost:4000";
+export const url = "https://capstonebackend-aifo.onrender.com";
 
 const App = () => {
   return (
